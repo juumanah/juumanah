@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jumanah Almohaimeed — Software Engineer, Backend & APIs, and Product Builder." />
+  <img src="header.svg" width="100%" alt="Jumanah Almohaimeed — Software Engineer, Backend & APIs, and Product Builder." />
 </p>
 
 <p align="center">
